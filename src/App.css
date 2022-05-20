@@ -1,0 +1,12 @@
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.hook__item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
